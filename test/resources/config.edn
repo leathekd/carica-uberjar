@@ -1,0 +1,2 @@
+{:config-value "set on the cli"
+ :cli-test "also set on the cli"}
